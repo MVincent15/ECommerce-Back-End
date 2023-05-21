@@ -3,17 +3,7 @@
   ![MIT](https://img.shields.io/badge/license-MIT-green)
 
   ## Description 
-GIVEN a functional Express.js API
-WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
-THEN I am able to connect to a database using Sequelize
-WHEN I enter schema and seed commands
-THEN a development database is created and is seeded with test data
-WHEN I enter the command to invoke the application
-THEN my server is started and the Sequelize models are synced to the MySQL database
-WHEN I open API GET routes in Insomnia Core for categories, products, or tags
-THEN the data for each of these routes is displayed in a formatted JSON
-WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
-THEN I am able to successfully create, update, and delete data in my database
+A functional express API that can be used as an ECommerce back end. This project has the ability to add cetgories, products, product tags and tags. As well as the functionality of updating, deleting and posting to each. This can be used as back end code. 
 
   ## Table of Contents
   1. [Installation](#installation)
@@ -23,7 +13,7 @@ THEN I am able to successfully create, update, and delete data in my database
   5. [Questions](#questions)
 
   ## Installation 
-  
+  To start please clone the git repo, and npm i all necessary dependencies. First run mysql to source the schema, then run node seeds to seed data(if have previous data). The npm start command will allow the listening on the port to begin. 
 
   ## Usage
 
