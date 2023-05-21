@@ -30,7 +30,9 @@ THEN I am able to successfully create, update, and delete data in my database
   NEED TO PUT THE VIDEO FILE AND SCREENSHOTS HERE
 
   ## Credits 
- 
+Cloned the starter code from https://github.com/coding-boot-camp/fantastic-umbrella
+
+Also used the SMU gitlab for infromation on sequelize, as well as the sequelize documentation. 
 
 
   ## License 
