@@ -16,8 +16,11 @@ A functional express API that can be used as an ECommerce back end. This project
   To start please clone the git repo, and npm i all necessary dependencies. First run mysql to source the schema, then run node seeds to seed data(if have previous data). The npm start command will allow the listening on the port to begin. 
 
   ## Usage
-
-  NEED TO PUT THE VIDEO FILE AND SCREENSHOTS HERE
+  
+  
+<img width="1227" alt="Screenshot 2023-05-21 at 7 01 02 PM" src="https://github.com/MVincent15/ECommerce-Back-End/assets/123343948/0535b364-a69e-4bc4-947a-c0cdc2829738">
+<img width="1227" alt="Screenshot 2023-05-21 at 7 01 10 PM" src="https://github.com/MVincent15/ECommerce-Back-End/assets/123343948/a694cbd1-93be-4f57-8e6d-6e93b84771b2">
+<img width="1227" alt="Screenshot 2023-05-21 at 7 01 18 PM" src="https://github.com/MVincent15/ECommerce-Back-End/assets/123343948/dec849cf-7c7b-4ec9-bf8f-a210b4f02976">
 
   ## Credits 
 Cloned the starter code from https://github.com/coding-boot-camp/fantastic-umbrella
